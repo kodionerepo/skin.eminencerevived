@@ -2,7 +2,6 @@
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" version="1.0.18" />
-        <import addon="plugin.video.themoviedb.helper" version="6.9.24" />
         <import addon="script.image.resource.select" version="3.0.2" />
         <import addon="resource.images.weathericons.white" version="0.0.6" />
     </requires>
@@ -40,6 +39,6 @@
             <screenshot>extras/viewthumbs/58.jpg</screenshot>
             <screenshot>extras/viewthumbs/59.jpg</screenshot>
         </assets>
-        <news>1.0.1 - Updated for Kodi 21.2 Omega compatibility</news>
+        <news>removed themoviedb</news>
     </extension>
 </addon>
